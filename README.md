@@ -25,8 +25,8 @@ It involves the following stages:
 <br>
 After the transformation the dataset is divided into training and testing dataset. Testing data is kept only 25% of the training data.
 </br>
+
 ### Feature Extraction
-<br>
 The final Features given to the first model are: <br>
 1. Current Age (in years)<br>
 2. Debut Age (in years)<br>
@@ -34,6 +34,7 @@ The final Features given to the first model are: <br>
 4. Cumulative runs scored<br>
 5. Number of fifties scored<br>
 6. Number of innings in last 3 years<br>
+
 The final features given to the second model are:<br>
 1. Debut Age (in years)<br>
 2. Total innings predicted from model 1<br>
